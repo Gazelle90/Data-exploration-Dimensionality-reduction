@@ -1,5 +1,5 @@
 # Data-exploration-Dimensionality-reduction
-This is a recent assignment where I used python libraries to explore the dataset, handle the missing values, and standardise the numerical values and reduce the dimensionality of the feature space.
+This is an assignment where I used python libraries to explore the dataset, handle the missing values, and standardise the numerical values and reduce the dimensionality of the feature space.
 
 
 The dataset I used for this assignment is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on specific diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
